@@ -1,5 +1,5 @@
 {
-  "name": "Compro — Image Compression Studio",
+  "name": "Compro \u2014 Image Compression Studio",
   "short_name": "Compro",
   "description": "Compress images to 50KB instantly in your browser. No uploads, 100% private.",
   "start_url": "/",
@@ -8,7 +8,17 @@
   "theme_color": "#1a1916",
   "lang": "en",
   "icons": [
-    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    {
+      "src": "/icons/icons-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icons-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
